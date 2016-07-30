@@ -17,9 +17,9 @@
 ![param2](https://raw.githubusercontent.com/CW0606/pics/master/learn_crawler/dangdang/params2.png)
     
     已注册信息：
-![param2](https://raw.githubusercontent.com/CW0606/pics/master/learn_crawler/dangdang/registered.png)
+![registered](https://raw.githubusercontent.com/CW0606/pics/master/learn_crawler/dangdang/registered.png)
     未注册信息
-![param2](https://raw.githubusercontent.com/CW0606/pics/master/learn_crawler/dangdang/unregistered.png)
+![unregistered](https://raw.githubusercontent.com/CW0606/pics/master/learn_crawler/dangdang/unregistered.png)
     
     
 ##编码实现
