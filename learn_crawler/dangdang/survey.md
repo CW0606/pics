@@ -7,18 +7,21 @@
 
 
 ###实际调研
-    注册页面：
+    **注册页面：**
 ![register page](https://raw.githubusercontent.com/CW0606/pics/master/learn_crawler/dangdang/register_page.png)
     
     
     
-    参数页面：
+    **参数页面：**
 ![params](https://raw.githubusercontent.com/CW0606/pics/master/learn_crawler/dangdang/params.png)
 ![param2](https://raw.githubusercontent.com/CW0606/pics/master/learn_crawler/dangdang/params2.png)
     
-    已注册信息：
+    **已注册信息：**
+    
+    
 ![registered](https://raw.githubusercontent.com/CW0606/pics/master/learn_crawler/dangdang/registered.png)
-    未注册信息
+    
+    **未注册信息**
 ![unregistered](https://raw.githubusercontent.com/CW0606/pics/master/learn_crawler/dangdang/unregistered.png)
     
     
